@@ -41,10 +41,10 @@ Node.js + Express.js or Django (Python) or PHP
 **Database:**
 MongoDB (if using Node.js)
 
-Contact Author:Gottipati SaiSravani
+**Contact Author:** Gottipati SaiSravani
 
-Email: saisravanigottipati@gmail.com
+**Email:** saisravanigottipati@gmail.com
 
-student Email:gottipatisaisravani@gmail.com
+**Student Email:** gottipatisaisravani@gmail.com
 
-Github:https://github.com/saisravani570
+**Github:** https://github.com/saisravani570

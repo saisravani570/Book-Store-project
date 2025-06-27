@@ -3,12 +3,19 @@
 The Book Store Project is a full-stack web application that allows users to browse, search, and purchase books online. The platform supports user registration, book listings, cart management, and an admin dashboard for managing inventory 
 
 🧑‍💻 User Features:
+
 Register/Login (User Authentication)
+
 View All Books with Pagination
+
 Filter/Search by Category, Author, Price, or Rating
+
 View Book Details
+
 Add to Cart / Remove from Cart
+
 Checkout with Order Summary
+
 View Purchase History
 
 🛠️ Admin Features:

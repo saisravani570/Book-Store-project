@@ -19,10 +19,15 @@ Checkout with Order Summary
 View Purchase History
 
 🛠️ Admin Features:
+
 Admin Login
+
 Add/Edit/Delete Book Listings
+
 Manage Categories
+
 View All Orders and User Info
+
 Generate Sales Reports
 
 Frontend:

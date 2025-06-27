@@ -30,6 +30,9 @@ Database:
 MongoDB (if using Node.js)
 
 Contact Author:Gottipati SaiSravani
-Email: 
-student Email:
+
+Email: saisravanigottipati@gmail.com
+
+student Email:gottipatisaisravani@gmail.com
+
 Github:

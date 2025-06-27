@@ -2,7 +2,7 @@
 
 The Book Store Project is a full-stack web application that allows users to browse, search, and purchase books online. The platform supports user registration, book listings, cart management, and an admin dashboard for managing inventory 
 
-🧑‍💻 User Features:
+**🧑‍💻 User Features:**
 
 Register/Login (User Authentication)
 
@@ -18,7 +18,7 @@ Checkout with Order Summary
 
 View Purchase History
 
-🛠️ Admin Features:
+**🛠️ Admin Features:**
 
 Admin Login
 
@@ -30,15 +30,15 @@ View All Orders and User Info
 
 Generate Sales Reports
 
-Frontend:
+**Frontend:**
 HTML, CSS, JavaScript
 
 Framework: React.js or Bootstrap
 
-Backend:
+**Backend:**
 Node.js + Express.js or Django (Python) or PHP
 
-Database:
+**Database:**
 MongoDB (if using Node.js)
 
 Contact Author:Gottipati SaiSravani
